@@ -22,23 +22,6 @@
 
 ---
 
-<!-- CONTACTO -->
-<h2 align="center">Contacto 📱</h2>
-
-<p align="center">
-  <a href="https://instagram.com/jairo.0rellana" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-4B0082?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@jairo.0rellana" target="_blank">
-    <img src="https://img.shields.io/badge/TIKTOK-4B0082?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/@jairo.0rellana" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-4B0082?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
----
-
 <!-- LENGUAJES -->
 <h2 align="center">Lenguajes 💻</h2>
 
