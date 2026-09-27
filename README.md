@@ -27,6 +27,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,github" alt="Lenguajes" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,github,git" alt="Lenguajes" />
   </a>
 </p>
